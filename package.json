@@ -1,0 +1,14 @@
+{
+  "name": "node-image-trimmer",
+  "version": "1.0.0",
+  "description": "This micro-utility lets you trim many images which contains unneeded background of any color",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "justice47",
+  "license": "ISC",
+  "dependencies": {
+    "sharp": "^0.26.3"
+  }
+}
